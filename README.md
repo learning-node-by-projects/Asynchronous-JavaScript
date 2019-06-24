@@ -1,4 +1,4 @@
-<h1 align="center">Hello World App using NodeJS</h1>
+<h1 align="center">Asynchronous JavaScript</h1>
 
 As JavaScript is Asynchronous by default it does not wait 
 to end task and continue reading.
@@ -33,9 +33,9 @@ function getUser(id) {
 
 
 To avoid this we use 
-Callbacks 
-Promises 
-Async/Await 
+- Callbacks 
+- Promises 
+- Async/Await 
 
 1. Callbacks
 
